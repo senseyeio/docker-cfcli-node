@@ -1,4 +1,4 @@
-FROM ruby:2.6-alpine3.11
+FROM ruby:2.6-alpine3.14
 
 LABEL maintainer="Joe Bell<joe.bell.1329@gmail.com>"
 
